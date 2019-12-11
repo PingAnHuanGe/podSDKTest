@@ -1,0 +1,22 @@
+{
+  "name": "podSDKTest",
+  "version": "0.1.0",
+  "summary": "A short description of podSDKTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/fuchanghuan/podSDKTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fuchanghuan": "fuchanghuan@me.com"
+  },
+  "source": {
+    "git": "https://github.com/fuchanghuan/podSDKTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "podSDKTest/Classes/**/*"
+}
